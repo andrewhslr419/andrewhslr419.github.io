@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Scientist for the People
 ---
 
 My name is Andrew Hasler and I bring to the table these skills:Professional attention to detail, group initiatve and team development, applied experience and deeply intricate dance styling. 
