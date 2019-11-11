@@ -14,4 +14,4 @@ My name is Andrew Hasler and I bring to the table these skills:Professional atte
 ### my history
  I spent most of my work histroy in and around the mountain industry. Ski resort operations has been my focus for more than a decade and has allowed me the ability to travel. My experience in the resort industry includes but is not limited too: Lift Operation, Terrain park Managment, Mountain Safety and Snowboard Instruction. Corporations I have worked for include: Vail Resorts, Intrawest Ski Corporation, Ceasers Entertainment and Edgewood Reality.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [https://www.youtube.com/watch?v=hHW1oY26kxQ]and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just watch https://www.youtube.com/watch?v=hHW1oY26kxQ and it will answer **all** your questions.
