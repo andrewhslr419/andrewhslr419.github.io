@@ -21,7 +21,7 @@ description: A virtual database of my projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Who is that guy?"
+  About Me: "about me"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
